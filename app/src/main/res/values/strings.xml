@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="error_string">Error retrieving books from Url</string>
+    <string name="random1">some random text for design time</string>
+    <string name="search">Search</string>
+    <string name="imgCover_description">Book Cover Image</string>
+    <string name="hint_title">Insert Title</string>
+    <string name="hint_author">Insert Author</string>
+    <string name="hint_publisher">Insert Publisher</string>
+    <string name="hint_ISBN">Insert ISBN</string>
+    <string name="advanced_search">Advanced Search</string>
+    <string name="no_search_data">Please Insert Valid Search Terms</string>
+</resources>
